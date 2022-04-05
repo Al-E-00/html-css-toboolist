@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    display: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+header {
+    padding: 10px;
+}
+header h1 {
+    display: inline-block;
+    vertical-align: auto;
+    line-height: 50px;
+}
+
+header img {
+    vertical-align: bottom;
+
+}
